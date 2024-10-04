@@ -12,7 +12,7 @@ This project replicates a **nutrition label** using **HTML** and **CSS**. The de
 
 ## Instructions
 1. Clone the repository.
-2. Open the index.html file in your browser to view the Nutrition Label.
+2. Open the ```index.html``` file in your browser to view the Nutrition Label.
 3. Modify styles.css to change the layout or add your custom styling.
 
 ## License
